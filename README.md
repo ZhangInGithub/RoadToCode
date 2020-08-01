@@ -8,3 +8,5 @@
 2.矩阵分解
 
 [链接](https://blog.csdn.net/bitcarmanlee/article/details/52662518)
+
+[SVD分解](https://blog.csdn.net/bitcarmanlee/article/details/52068118)
